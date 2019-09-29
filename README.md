@@ -1,6 +1,6 @@
 # Apex Legends Stat Tracker
 
-> Full stack app built with Vue + Express using the Tracker Network API to look up basic player stats.
+> Full stack Web application built with Vue + Express using the Tracker Network public API to track player stats from Apex legends. See it in action [Here](https://stat-tracker-spa.herokuapp.com/) or build your own with the instructions below!
 
 ## Quick Start
 
@@ -17,8 +17,8 @@ npm install
 cd client
 npm install
 
-# Serve
-npm run dev
+# Run local Server for app
+`npm run dev
 
 # Build for production
 cd client
